@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="style.css">
+
+</head>
+
+<body>
+
+    <div class="maindiv">
+        <div class="rajat">
+            <img src="wikipedia.png" alt="">
+            <p style="font-family: 'Linux Libertine','Georgia','Times',serif;">Wikipedia</p>
+
+            <div class="text">
+                <p>The free Encyclopedia</p>
+            </div>
+            <form action="search-results.html" method="get">
+                <div class="searchbox">
+
+                    <input type="text" id="search" name="q" placeholder="Search Wikipedia" />
+                    <button type="submit">Search </button>
+                </div>
+            </form>
+
+            <h1 style="position: absolute;">University of Orléans</h1>
+
+            <div class="sujane">
+                <ul>
+                    <li style="list-style-type: none    ;">
+                        <a href="">Read</a>
+                        <a href="">Edit</a>
+                        <a href="">View History</a>
+                        <a href="">Tools</a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </div>
+    <div class="para">
+        <p>
+            From Wikipedia, the free encyclopedia <br>
+            Université d'Orléans is a French university, in the Academy of Orléans and Tours. As of July 2015 it is a
+            member of the regional university association <a href=""> Leonardo da Vinci consolidated University.[1]</a>
+        </p>
+
+    </div>
+    <h2>
+        History
+        <a style="font-size: 15px;" href="">[edit]</a>
+    </h2>
+    <div class="History">
+        <p>
+            In 1230, when for a time the doctors of the University of Paris were scattered, a number of the teachers and
+            disciples took refuge in Orléans; when pope Boniface VIII, in 1298, promulgated the sixth book of the
+            Decretals, he appointed the doctors of Bologna and the doctors of Orléans to comment upon it.
+
+            St. Yves (1253–1303) studied civil law at Orléans, and Pope Clement V also studied there law and letters; by
+            a papal bull published at Lyon, 27 January 1306, he endowed the Orléans institutes with the title and
+            privileges of a university.
+
+            Twelve later popes granted the new university many privileges. In the 14th century it had as many as five
+            thousand students from France, Germany, Lorraine, Burgundy, Champagne, Picardy, Normandy, Touraine, Guyenne
+            and Scotland.
+
+            The current university was founded in 1960, after its medieval predecessor was closed down in 1793 and
+            merged into the University of France in 1808
+        </p>
+    </div>
+    <div class="Organisation">
+        <h2>
+            Organisation <a style="font-size: 15px;" href="">[edit]</a>
+        </h2>
+        <p>
+            The university is organised into three Teaching and Research divisions (UFR)
+            <ul>
+                <li>Law, Economics and Management</li>
+                <li>Literature, Languages and Human Sciences</li>
+                <li>Science and Technology</li>
+                <li>In addition, it has:</li>
+                <li>1 Science of the Universe Observatory</li>
+                <li>1 National Higher Institute of Teaching and Education</li>
+                <li>1 School of Engineering</li>
+            </ul>
+        </p>
+    </div>
+    
+</body>
+
+</html>
